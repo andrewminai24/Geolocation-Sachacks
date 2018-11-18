@@ -1,0 +1,7 @@
+{
+  "appId": "org.vue.myApp",
+  "appName": "Vue App",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh"
+}
